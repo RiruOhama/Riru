@@ -1,0 +1,2 @@
+# Riru
+I am Riru a full-stack developer with more than 7 years of experience in both designing, developing and programming websites &amp; web applications using these technologies: (WordPress, Shopify, PHP, Laravel, Woocommerce, Angular, React, Node, MongoDB) We have built ✅1500+ websites &amp; web applications for a broad range of industries from small and mid-level businesses to high-end companies &amp; still counting...  🎯My aim has always been to build a website that looks professional, responsive with fast loading speed &amp; SEO Friendly.
